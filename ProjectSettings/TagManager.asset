@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - 1
+  - Spelling
+  - Reading
+  - Introduction
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Webcam
+    uniqueID: 1593355599
+    locked: 0
+  - name: 3D
+    uniqueID: 1424163133
+    locked: 0
+  - name: Buttons
+    uniqueID: 3576455117
+    locked: 0
+  - name: PNG
+    uniqueID: 1248333
+    locked: 0
